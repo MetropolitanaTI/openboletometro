@@ -1,15 +1,11 @@
 {
-    "name": "kriansa/openboleto",
+    "name": "MetropolitanaTI/openboletometro",
     "type": "library",
     "description": "Biblioteca para geração de boletos bancários.",
     "keywords": ["boleto", "boleto bancario"],
-    "homepage": "http://github.com/kriansa/openboleto",
+    "homepage": "https://github.com/MetropolitanaTI/openboletometro",
     "license": "MIT",
     "authors": [
-        {
-            "name": "Daniel Garajau",
-            "email": "kriansa@facebook.com"
-        }
     ],
     "require": {
         "php": ">=5.3.0"
